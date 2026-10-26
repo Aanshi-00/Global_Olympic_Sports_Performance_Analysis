@@ -103,6 +103,7 @@ A compatible Tableau installation may be required to open or edit the packaged w
 ## Project Links
 - **GitHub Repository:** https://github.com/Aanshi-00/Global-Olympic-Sports-Performance-Analysis
 - **Dataset Folder:** https://drive.google.com/drive/folders/1FUnbqjwH1Apyb2NjwW-D-NIEONIEL1ig
+- **Demonstration video link:** https://drive.google.com/file/d/1bwXhvH2OnmpVhI8SPT0YyffthtNTwLma/view?usp=drivesdk
 
 ## Project Information
 - **Project Name:** Global Olympic Sports Performance Analysis
