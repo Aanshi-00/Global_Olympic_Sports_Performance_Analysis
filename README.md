@@ -124,6 +124,10 @@ Summarizes the key takeaways, interpretation limits, and overall conclusion.
 
 Demonstration video: https://drive.google.com/file/d/1bwXhvH2OnmpVhI8SPT0YyffthtNTwLma/view?usp=drivesdk
 
+## Website Integration 
+
+https://global-olympics-performance-analysis.netlify.app/
+
 ## How to Explore the Project
 
 1. Open any dashboard URL above.
@@ -155,3 +159,5 @@ Demonstration video: https://drive.google.com/file/d/1bwXhvH2OnmpVhI8SPT0Yyfftht
 ## GitHub Repository
 
 https://github.com/Aanshi-00/Global-Olympic-Sports-Performance-Analysis
+
+
